@@ -8,8 +8,8 @@ if(a==b)
   {
   cout<<"Both the numbers are equal";
   }
-else{
-    cout<<"both numbers are unequal";
+else {
+    cout<<"both numbers are not equal";
   }
 return 0;
 }
